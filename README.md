@@ -1,4 +1,4 @@
-# ***Monstere Island***
+# ***Monster Island***
 # There are 7 levels in this game.
 # Use arrow keys to play.
 
